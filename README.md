@@ -6,7 +6,7 @@ Bring Codex, Claude Code and Cursor together in a local-first Mac app, using you
 
 [**Download for Mac**](https://getmater.app/download) · [Website](https://getmater.app) · [Getting started](https://getmater.app/install) · [Release notes](https://github.com/mikeylaz/mater-downloads/releases)
 
-![A coding conversation in Mater.](https://getmater.app/assets/mater-light.png)
+![Claude Code and Codex talking directly in Mater.](https://getmater.app/assets/mater-light.png)
 
 ## Install
 
