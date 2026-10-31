@@ -10,7 +10,7 @@ Bring your coding agents together in a local-first Mac app, using your own agent
 
 ## Install
 
-**Beta 21 · Apple Silicon (M1 or newer) · macOS 13.5 or later**
+**Beta 22 · Apple Silicon (M1 or newer) · macOS 13.5 or later**
 
 1. Download the DMG and open it.
 2. Drag **Mater Beta** into **Applications**, then open it.
